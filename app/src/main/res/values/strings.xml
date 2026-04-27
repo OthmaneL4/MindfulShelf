@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MindfulShelf</string>
+    <string name="detail_screen_title">Detalle del libro</string>
+    <string name="retry">Reintentar</string>
+    <string name="book_cover">Portada del libro</string>
+    <string name="back">Volver</string>
+</resources>
